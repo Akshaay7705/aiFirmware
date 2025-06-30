@@ -283,7 +283,7 @@ export interface LLMResponse {
 }
 
 export class MockLLMAPI {
-  private apiKey = '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';
+  
   private apiUrl = 'https://api.groq.com/openai/v1/chat/completions';
   private model = 'llama3-70b-8192';
 
