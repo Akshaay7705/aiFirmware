@@ -58,7 +58,7 @@ Enterprise-grade AI firewall protecting LLM applications from malicious inputs a
 
 3. Access the application:
    - Frontend: http://localhost:5173
-   - Backend API: http://localhost:5000
+   - Backend API: http://localhost:6060
    - Health Check: http://localhost:5000/api/health
 
 #### Production Mode
